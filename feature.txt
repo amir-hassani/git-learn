@@ -4,4 +4,7 @@ line 3 of feature-1
 line 4 of feature-1
 line 5 of feature-1
 line 6 of feature-1
+<<<<<<< HEAD
 line 7 of feature-1
+=======
+>>>>>>> 2638d5b57a364c14037e5468cbbfdafb402571f2
